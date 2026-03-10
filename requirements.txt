@@ -1,9 +1,10 @@
+fastapi
+uvicorn
+python-multipart
 torch
 torchvision
 ultralytics
 transformers
-fastapi
-uvicorn
 pillow
 pandas
 scikit-learn
